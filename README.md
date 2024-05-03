@@ -9,9 +9,10 @@ This project simulates a simple magical combat arena where two players engage in
    A text editor or IDE (Eclipse)
    
 2. Clone or Download the Repository:
-   Use git to clone the repository locally or download the ZIP archive.
+   Use git to clone the repository locally or download the ZIP archive.(https://obscure-barnacle-g4q9rxjgq4w9cw664.github.dev/)
+   code(
 
-3. Compile and Run:
+4. Compile and Run:
    if using command line:
    Bash
    cd MagicalArena
