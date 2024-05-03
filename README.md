@@ -29,6 +29,9 @@ The fight continues until one player's health depletes to zero. The winner is de
 # Unite Test
 Unit tests are included in the tests directory. These tests verify the functionality of individual components, such as the rollDie method, damage calculation in fight, and player health management.
 
+# License
+This code is distributed under the Eclipse Public License 2.0
+
    
    
 
