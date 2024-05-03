@@ -20,7 +20,7 @@ This project simulates a simple magical combat arena where two players engage in
 
    Code(https://obscure-barnacle-g4q9rxjgq4w9cw664.github.dev/)
 
-   if using an IDE: Follow your IDE's specific instruction for compiling and running java code.
+4. if using an IDE: Follow your IDE's specific instruction for compiling and running java code.
 
 
 # Gameplay
