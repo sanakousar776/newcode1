@@ -9,17 +9,17 @@ This project simulates a simple magical combat arena where two players engage in
    A text editor or IDE (Eclipse)
    
 2. Clone or Download the Repository:
-   Use git to clone the repository locally or download the ZIP archive.(https://obscure-barnacle-g4q9rxjgq4w9cw664.github.dev/)
-   code(
-
-4. Compile and Run:
+   Use git to clone the repository locally or download the ZIP archive.
+   
+3. Compile and Run:
    if using command line:
    Bash
    cd MagicalArena
    javac MagicalArena.java Player.java     # Compile the java files
    java MagicalArena                       # Run the program
+   Code(https://obscure-barnacle-g4q9rxjgq4w9cw664.github.dev/)
 
-if using an IDE: Follow your IDE's specific instruction for compiling and running java code.
+   if using an IDE: Follow your IDE's specific instruction for compiling and running java code.
 
 
 # Gameplay
@@ -29,6 +29,8 @@ The fight continues until one player's health depletes to zero. The winner is de
 
 # Unite Test
 Unit tests are included in the tests directory. These tests verify the functionality of individual components, such as the rollDie method, damage calculation in fight, and player health management.
+
+Java(https://github.com/sanakousar776/newcode1.git)
 
 # License
 This code is distributed under the Eclipse Public License 2.0
