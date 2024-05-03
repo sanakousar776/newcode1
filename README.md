@@ -1,9 +1,9 @@
 # Magical Arena 
 
-Description
+# Description
 This project simulates a simple magical combat arena where two players engage in turn based fight until one player's health reach zero.
 
-Running the code
+# Running the code
 1. Prerequisites:
    Java Development kit(JDK)
    A text editor or IDE (Eclipse)
